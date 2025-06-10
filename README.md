@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Image](https://github.com/user-attachments/assets/d7f6c0aa-2dcb-4086-8e94-78b2dcd0b19f)
 <!--
 **ysabellax/ysabellax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
