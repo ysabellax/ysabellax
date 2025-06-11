@@ -1,6 +1,6 @@
 ## Hello World 
 
-![Image](https://github.com/user-attachments/assets/d7f6c0aa-2dcb-4086-8e94-78b2dcd0b19f)
+![Image](https://github.com/user-attachments/assets/9923789b-6dfe-4e17-8831-5fc34402f8ca)
 <!--
 **ysabellax/ysabellax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
