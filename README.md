@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">📚 Atualmente curso Análise e Desenvolvimento de Simestes e estou no Bootcamp da Generation Brasil, me aprofundando em desenvolvimento fullstack JavaScript, uma jornada intensa de muitos aprendizados das tecnologias mais utilizadas atualmente no mercado.</p>
+<p align="left">📚 Atualmente curso Análise e Desenvolvimento de Sistemas e estou no Bootcamp da Generation Brasil, me aprofundando em desenvolvimento fullstack JavaScript, uma jornada intensa de muitos aprendizados das tecnologias mais utilizadas atualmente no mercado.</p>
 
 ###
 
