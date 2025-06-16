@@ -69,9 +69,6 @@
 ###
 
 <div align="left">
-  <a href="mailto:ysabella3909@gmail.com"><img src="https://img.shields.io/static/v1?message=ysabella3909@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href = "mailto:ysabella3909@gmail.com"><img src=https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge target=""></a>
-
   <a href="https://www.linkedin.com/in/ysabella-santos-829a932ab/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
