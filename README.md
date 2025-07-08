@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">👩🏻‍💻 Me apaixonei pelo mundo da programação, programar pra mim é arte, uma outra realidade através dos códigos que conseguimos criar, eu amo criar! adoro aprender coisas novas e estou sempre buscando evoluir.</p>
+<p align="left">👩🏻‍💻 Me apaixonei pelo mundo da programação, programar pra mim é arte, uma outra realidade através dos códigos que conseguimos criar, eu amo criar! adoro aprender coisas novas, resolver problemas e estou sempre buscando evoluir.</p>
 
 ###
 
