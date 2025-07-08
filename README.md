@@ -71,5 +71,8 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/ysabella-santos-829a932ab/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
+<a href="mailto:ysabella3909@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-ysabella3909@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de contato"/>
+</a>
 
 ###
