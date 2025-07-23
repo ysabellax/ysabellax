@@ -33,7 +33,7 @@
 
 <h2 align="left">🚀 Tecnologias e Linguagens </h2>
 
-<img src="https://github.com/user-attachments/assets/749c7913-0fb1-4906-8c51-182c0c454722" alt="ilustração de um computador" min-width="400px" max-width="400px" width="500px" align="right">
+<img src="https://github.com/user-attachments/assets/749c7913-0fb1-4906-8c51-182c0c454722" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ###
 
