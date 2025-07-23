@@ -21,7 +21,15 @@
 <p align="left">📚 Atualmente curso Análise e Desenvolvimento de Sistemas e estou no Bootcamp da Generation Brasil, me aprofundando em desenvolvimento fullstack JavaScript, uma jornada intensa de muitos aprendizados das tecnologias mais utilizadas atualmente no mercado.</p>
 
 ###
+---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ysabellax/ysabellax/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ysabellax/ysabellax/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ysabellax/ysabellax/output/pacman-contribution-graph.svg">
+</picture>
 
+
+---
 <h2 align="left">🚀 Tecnologias e Linguagens </h2>
 
 ###
@@ -82,12 +90,4 @@
 </p>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ysabellax/ysabellax/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ysabellax/ysabellax/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ysabellax/ysabellax/output/pacman-contribution-graph.svg">
-</picture>
 
-###
-
-###
