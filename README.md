@@ -2,7 +2,7 @@
 ![Image](https://github.com/user-attachments/assets/4209fde7-c575-444b-9a4e-18ba0de32808)
 
 ###
-
+---
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ysabellax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ysabellax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -33,7 +33,7 @@
 
 <h2 align="left">🚀 Tecnologias e Linguagens </h2>
 
-<img src="https://github.com/user-attachments/assets/fc2a2984-06fc-4ac6-9f5a-963f4befb335" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/user-attachments/assets/749c7913-0fb1-4906-8c51-182c0c454722" alt="ilustração de um computador" min-width="400px" max-width="400px" width="500px" align="right">
 
 ###
 
