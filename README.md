@@ -1,6 +1,3 @@
-<h1 align="center">Hello World👋</h1>
-
-###
 
 ![Image](https://github.com/user-attachments/assets/4209fde7-c575-444b-9a4e-18ba0de32808)
 
@@ -25,7 +22,7 @@
 
 ###
 
-<h2 align="left">🚀 Tecnologias </h2>
+<h2 align="left">🚀 Tecnologias e Linguagens </h2>
 
 ###
 
@@ -33,15 +30,19 @@
 
 ###
 
-<p align="left">• Back-End: Node.js</p>
+<p align="left">• Back-End: Node.js, NestJS, TypeScript</p>
 
 ###
 
-<p align="left">• Front-End: React, HTML, CSS</p>
+<p align="left">• Front-End: JavaScript, HTML, CSS, React</p>
 
 ###
 
-<p align="left">• Outros: Git, GitHub</p>
+<p align="left">• Banco de Dados: MySQL, PostgreSQL, SQLite</p>
+
+###
+
+<p align="left">• Ferramentas: Git, GitHub, Postman, VS Code, NPM, CRM, Insomnia</p>
 
 ###
 
@@ -60,20 +61,25 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
+  <img src="https://github.com/user-attachments/assets/2825941e-243a-477a-b475-cb736b66fee0" height="40" alt="MySQL logo"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/9a657e45-71da-494e-8944-b3302d61bf84" height="40" alt="MySQL logo"  />
+  <img width="12" />
 </div>
 
 ###
 
-<h2 align="left">📧 Onde me encontrar</h2>
+<h2 align="left">💌 Onde me encontrar</h2>
 
 ###
+<p>Gostaria de se conectar comigo? Me envie um e-mail ou me siga no LinkedIn!</p>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ysabella-santos-829a932ab/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div>
-<a href="mailto:ysabella3909@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-ysabella3909@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de contato"/>
-</a>
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ysabella3909@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=ysabella3909@gmail.com" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/ysabella-santos-829a932ab/">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
 
 ###
 <picture>
@@ -81,5 +87,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ysabellax/ysabellax/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ysabellax/ysabellax/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 ###
