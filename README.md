@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👱🏻‍♀️ Olá tudo bem ? Meu nome é Ysabella, tenho 20 anos e sou de São Paulo, sempre adorei atividades artesanais, como desenhos e pinturas. Desde muito nova a tecnologia tem estado presente em minha vida, adoro descobrir coisas nvoas através das telinhas! </p>
+<p align="left">👱🏻‍♀️ Olá tudo bem ? Meu nome é Ysabella, tenho 20 anos e sou de São Paulo, sempre adorei atividades artesanais, como desenhos e pinturas. Desde muito nova a tecnologia tem estado presente em minha vida, adoro descobrir coisas novas através das telinhas! </p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">📚 Atualmente curso Análise e Desenvolvimento de Sistemas e sou formada Bootcamp da Generation Brasil, me aprofundando em desenvolvimento fullstack JavaScript, uma jornada intensa de muitos aprendizados das tecnologias mais utilizadas atualmente no mercado.</p>
+<p align="left">📚 Atualmente curso Análise e Desenvolvimento de Sistemas e sou formada Bootcamp da Generation Brasil, onde me aprofundei no desenvolvimento fullstack JavaScript, uma jornada intensa de muitos aprendizados das tecnologias mais utilizadas atualmente no mercado.</p>
 
 ###
 ---
